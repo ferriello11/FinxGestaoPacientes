@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using FinxGestaoPacientes.Entities;
 using FinxGestaoPacientes.Services.Interfaces;
+using FinxGestaoPacientes.DTO;
 
 namespace FinxGestaoPacientes.Controllers
 {

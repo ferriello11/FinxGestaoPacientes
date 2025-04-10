@@ -168,3 +168,4 @@ C:\FinxGestaoPacientes\obj\Debug\net8.0\refint\FinxGestaoPacientes.dll
 C:\FinxGestaoPacientes\obj\Debug\net8.0\FinxGestaoPacientes.pdb
 C:\FinxGestaoPacientes\obj\Debug\net8.0\FinxGestaoPacientes.genruntimeconfig.cache
 C:\FinxGestaoPacientes\obj\Debug\net8.0\ref\FinxGestaoPacientes.dll
+C:\FinxGestaoPacientes\obj\Debug\net8.0\FinxGestaoPacientes.sourcelink.json

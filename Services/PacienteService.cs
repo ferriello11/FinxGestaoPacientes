@@ -1,3 +1,4 @@
+using FinxGestaoPacientes.DTO;
 using FinxGestaoPacientes.Entities;
 using FinxGestaoPacientes.Extensions;
 using FinxGestaoPacientes.Repositories.Interfaces;

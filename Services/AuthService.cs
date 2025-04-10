@@ -3,7 +3,6 @@ using System.Security.Claims;
 using System.Text;
 using FinxGestaoPacientes.Entities;
 using FinxGestaoPacientes.Services.Interfaces;
-using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 
 namespace FinxGestaoPacientes.Services

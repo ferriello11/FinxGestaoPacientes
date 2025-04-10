@@ -1,5 +1,5 @@
 
-namespace FinxGestaoPacientes.Entities
+namespace FinxGestaoPacientes.DTO
 {
     public class PacienteDTO
     {

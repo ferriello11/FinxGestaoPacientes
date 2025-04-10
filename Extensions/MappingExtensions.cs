@@ -1,3 +1,4 @@
+using FinxGestaoPacientes.DTO;
 using FinxGestaoPacientes.Entities;
 
 namespace FinxGestaoPacientes.Extensions
