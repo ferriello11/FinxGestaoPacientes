@@ -16,6 +16,7 @@
 - ASP.NET Core Web API
 - Entity Framework Core
 - SQL Server (ou outro banco compatível)
+- Swagger
 
 ## 📁 Estrutura do Projeto
 
