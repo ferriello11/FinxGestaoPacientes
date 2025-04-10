@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinxGestaoPacientes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61816f2d364200002ebc2d5ae6b4e38f81e565c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinxGestaoPacientes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinxGestaoPacientes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
